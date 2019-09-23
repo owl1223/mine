@@ -1,0 +1,52 @@
+.el-tabs.el-tabs--top {
+  height: 390px;
+  /*overflow: scroll;*/
+
+}
+
+.el-tabs__header.is-top {
+  background: #fff;
+
+}
+
+.el-tabs__nav-wrap.is-scrollable.is-top {
+  background: #fff;
+  margin: 0;
+}
+
+.el-tabs__header {
+  margin: 0;
+}
+
+.qb_div {
+  width: 33.3333vw;
+  height: 33vw;
+  float: left;
+  box-sizing: border-box;
+  border-right: 1px dashed #ddd;
+  border-bottom: 1px dashed #ddd;
+
+}
+
+.gameimg {
+  width: 61px;
+  height: 61px;
+  border-radius: 50%;
+
+  position: relative;
+  top: 25%;
+  left: 25%;
+
+}
+
+.qb_div img {
+  width: 61px;
+  border-radius: 50%;
+
+
+}
+
+.el-tabs__content {
+  height: 355px;
+
+}
